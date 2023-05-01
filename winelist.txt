@@ -1,6 +1,7 @@
-ermelinda
 trinca_bolotas
 flor_tua
 Moscatel
+vinho_do_porto
+vinho_verde
 
 
